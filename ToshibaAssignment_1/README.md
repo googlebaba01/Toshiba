@@ -31,7 +31,7 @@ https://toshiba-rose.vercel.app/
 npm run build
 ```
 For the other installments use the default npm install commands, to avoid the version conflicts checkout the json file.
-<br>*Netlify has been used for the deployment of this project. (Just drag drop the the build file)
+<br>*Vercel has been used for the deployment of this project. (Just drag drop the the build file)
 
 
 
